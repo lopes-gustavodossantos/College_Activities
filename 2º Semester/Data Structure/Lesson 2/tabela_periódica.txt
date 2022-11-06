@@ -1,0 +1,6 @@
+simbolo;no,e;numero_atomico;linha;coluna;estado
+Al;Alumínio;13;3;13;s
+Au;Ouro;79;6;11;s
+Br;Bromo;35;4;17;l
+H;Hidrogênio;1;1;1;g
+O;Oxigênio;8;2;16;g
