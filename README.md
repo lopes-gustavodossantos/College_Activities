@@ -1,6 +1,4 @@
-College Activities
-
-  /1º Semester
+/1º Semester
   
     Programming Fundamentals
     
