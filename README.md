@@ -7,6 +7,6 @@ College Activities
   2º Semester
   
     Data Structure
-      Internship
-        Server PHP
-        Terminal PHP
+    Internship
+      Server PHP
+      Terminal PHP: 15 Exercises
