@@ -1,8 +1,3 @@
-      
-      
-      
-      
-      
       /1º Semester
         /Programming Fundamentals
           /Lesson 2:               5 Exercises
