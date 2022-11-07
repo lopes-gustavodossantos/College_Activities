@@ -38,3 +38,4 @@ switch ($query) {
         <a href="ex1.php">Resetar Mensagens </a>
     </div>
 </body>
+</html>
