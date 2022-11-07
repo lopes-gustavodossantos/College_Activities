@@ -21,7 +21,7 @@ if (filter_input(INPUT_POST, "btnEnviar", FILTER_SANITIZE_STRING)) {
 <html lang="pt-br">
 
 <head>
-    <title>Criptografia</title>
+    <title>Criptografia Ex.1</title>
     <meta charset="utf-8" />
 </head>
 
