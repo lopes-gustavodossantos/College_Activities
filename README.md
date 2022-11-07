@@ -15,8 +15,9 @@
          /Lesson 11:               1 Exercise
          /Lesson 12:               1 Exercise
    /2º Semester
-         /Data Structure
-            /Lesson 2: 1 Exercise
+  
+      /Data Structure
+         /Lesson 2: 1 Exercise
          
       /Internship
          /Server PHP
