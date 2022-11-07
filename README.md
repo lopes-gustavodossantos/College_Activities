@@ -8,6 +8,7 @@ College Activities
   
     /Data Structure
       /Lesson 2: 1 Exercise
+      
     /Internship
       /Server PHP
         /Arithmetic Operators: 3 Exercises
@@ -25,4 +26,5 @@ College Activities
         /Switch:               1 Exercise
         /Variables:            2 Exercises
         /While:                2 Exercises
+        
       /Terminal PHP: 15 Exercises
