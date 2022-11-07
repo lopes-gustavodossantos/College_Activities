@@ -20,26 +20,27 @@
          /Lesson 2: 1 Exercise
          
       /Internship
-         /Server PHP
-            /Arithmetic Operators: 3 Exercises
-            /Array: 3 Exercises
-            /Cookies: 1 Exercise
-            /Cryptography: 1 Exercise
-            /Do While: 2 Exercises
-            /Echo: 1 Exercise
-            /For: 2 Exercises
-            /Foreach: 2 Exercises
-            /Function: 4 Exercises
-            /Get:
-               /Exercise 1: 1 Exercise
-               /Exercise 2: 1 Exercise
-               
-            /If Else ElseIf: 2 Exercises
-            /PHP Functions: 3 Exercises
-            /Post: 1 Exercise
-            /Require Files: 1 Exercise
-            /Switch: 1 Exercise
-            /Variables: 2 Exercises
-            /While: 2 Exercises
+         /1º Week
+            /Server PHP
+               /Arithmetic Operators: 3 Exercises
+               /Array: 3 Exercises
+               /Cookies: 1 Exercise
+               /Cryptography: 1 Exercise
+               /Do While: 2 Exercises
+               /Echo: 1 Exercise
+               /For: 2 Exercises
+               /Foreach: 2 Exercises
+               /Function: 4 Exercises
+               /Get:
+                  /Exercise 1: 1 Exercise
+                  /Exercise 2: 1 Exercise
 
-         /Terminal PHP: 15 Exercises
+               /If Else ElseIf: 2 Exercises
+               /PHP Functions: 3 Exercises
+               /Post: 1 Exercise
+               /Require Files: 1 Exercise
+               /Switch: 1 Exercise
+               /Variables: 2 Exercises
+               /While: 2 Exercises
+
+            /Terminal PHP: 15 Exercises
