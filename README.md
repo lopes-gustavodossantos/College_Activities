@@ -1,4 +1,5 @@
-      /1º Semester
+   /1º Semester
+      
         /Programming Fundamentals
           /Lesson 2:               5 Exercises
           /Lesson 3:               3 Exercises
@@ -13,7 +14,8 @@
           /Lesson 11:              1 Exercise
           /Lesson 12:              1 Exercise
 
-      /2º Semester
+   /2º Semester
+   
         /Data Structure
           /Lesson 2: 1 Exercise
 
