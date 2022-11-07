@@ -7,7 +7,7 @@ College Activities
   /2º Semester
   
     /Data Structure
-                  /Lesson 2: 1 Exercise
+      /Lesson 2: 1 Exercise
     /Internship
       /Server PHP
         /Arithmetic Operators: 3 Exercises
