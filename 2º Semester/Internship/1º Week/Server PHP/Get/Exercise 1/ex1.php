@@ -2,6 +2,7 @@
 
 $query = filter_input(INPUT_GET, "msg", FILTER_SANITIZE_NUMBER_INT);
 $msg = "&nbsp";
+
 switch ($query) {
     case 1:
         $msg = "Sua sessão expirou, faça o login novamente.";
