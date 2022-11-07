@@ -4,7 +4,11 @@ College Activities
     Programming Fundamentals
     
   2º Semester
+  
     Data Structure
+    
     Internship
+    
       Server PHP
+      
       Terminal PHP
