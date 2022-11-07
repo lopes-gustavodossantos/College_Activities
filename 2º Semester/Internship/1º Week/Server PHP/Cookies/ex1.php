@@ -16,7 +16,7 @@ if (filter_input(INPUT_POST, "btnEnviar", FILTER_SANITIZE_STRING)) {
 <html lang="pt-br">
 
 <head>
-    <title>Cookie</title>
+    <title>Cookies Ex.1</title>
     <meta charset="utf-8" />
 </head>
 
