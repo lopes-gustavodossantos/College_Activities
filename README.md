@@ -23,6 +23,7 @@
          /Server PHP
             /Arithmetic Operators: 3 Exercises
             /Array: 3 Exercises
+            /Cryptography: 1 Exercise
             /Do While: 2 Exercises
             /Echo: 1 Exercise
             /For: 2 Exercises
