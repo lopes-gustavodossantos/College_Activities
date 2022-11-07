@@ -7,6 +7,7 @@
           /Lesson 5 Evaluative:
             /Optional: 21 Exercises
             /Required:  7 Exercises
+            
           /Lesson 5:               4 Exercises
           /Lesson 6:               3 Exercises
           /Lesson 7:               3 Exercises
