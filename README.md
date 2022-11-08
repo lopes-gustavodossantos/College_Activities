@@ -1,46 +1,46 @@
    /1º Semester
       
       /Programming Fundamentals
-         /Lesson 2: 5 Exercises
-         /Lesson 3: 3 Exercises
-         /Lesson 4: 3 Exercises
-         /Lesson 5 Evaluative:
-            /Optional: 21 Exercises
-            /Required: 7 Exercises  
+         /Lesson 2
+         /Lesson 3
+         /Lesson 4
+         /Lesson 5 Evaluative
+            /Optional
+            /Required 
             
-         /Lesson 5: 4 Exercises
-         /Lesson 6: 3 Exercises
-         /Lesson 7: 3 Exercises
-         /Lesson 8: 1 Exercise
-         /Lesson 11: 1 Exercise
-         /Lesson 12: 1 Exercise
+         /Lesson 5
+         /Lesson 6
+         /Lesson 7
+         /Lesson 8
+         /Lesson 11
+         /Lesson 12
    /2º Semester
   
       /Data Structure
-         /Lesson 2: 1 Exercise
+         /Lesson 2
          
       /Internship
          /1º Week
             /Server PHP
-               /Arithmetic Operators: 3 Exercises
-               /Array: 3 Exercises
-               /Cookies: 1 Exercise
-               /Cryptography: 1 Exercise
-               /Do While: 2 Exercises
-               /Echo: 1 Exercise
-               /For: 2 Exercises
-               /Foreach: 2 Exercises
-               /Function: 4 Exercises
-               /Get:
-                  /Exercise 1: 1 Exercise
-                  /Exercise 2: 1 Exercise
+               /Arithmetic Operators
+               /Array
+               /Cookies
+               /Cryptography
+               /Do While
+               /Echo
+               /For
+               /Foreach
+               /Function
+               /Get
+                  /Exercise 1
+                  /Exercise 2
 
-               /If Else ElseIf: 2 Exercises
-               /PHP Functions: 3 Exercises
-               /Post: 1 Exercise
-               /Require Files: 1 Exercise
-               /Switch: 1 Exercise
-               /Variables: 2 Exercises
-               /While: 2 Exercises
+               /If Else ElseIf
+               /PHP Functions
+               /Post
+               /Require Files
+               /Switch
+               /Variables
+               /While
 
-            /Terminal PHP: 15 Exercises
+            /Terminal PHP
