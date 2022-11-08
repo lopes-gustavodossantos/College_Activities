@@ -1,5 +1,5 @@
 <?php
-//This part exist just because, GitHub doesn't recognize a PHP file without PHP in it.
+//This part exist just because GitHub doesn't recognize a PHP file without PHP in it.
 ?>
 
 <!DOCTYPE HTML>
