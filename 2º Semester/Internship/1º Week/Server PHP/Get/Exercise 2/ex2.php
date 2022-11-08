@@ -1,3 +1,7 @@
+<?php
+//This part exist just because, GitHub doesn't recognize a PHP file without PHP in it.
+?>
+
 <!DOCTYPE HTML>
 <html lang="pt-br">
     
