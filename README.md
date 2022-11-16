@@ -44,5 +44,3 @@
                /While
 
             /Terminal PHP
-            
-         /2º Week
